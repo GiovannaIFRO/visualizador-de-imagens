@@ -1,0 +1,11 @@
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\giova\OneDrive\Documentos\ifro\2°ANO\P.O.O\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
